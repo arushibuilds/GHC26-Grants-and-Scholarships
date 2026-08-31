@@ -30,4 +30,4 @@ respective owners.
 | Scholarship | Eligibility | Deadline | Link |
 |---|---|---|---|
 | AnitaB.org Kamala Scholars Program | 3rd- and 4th-year undergraduates in technical computing (Black and Latine students) | September 8, 2026 @ 11:59pm ET | [Apply](https://ghc.anitab.org/kamala-scholars) |
-| Citadel Grace Hopper Travel Grant | Citadel employees/sponsored candidates | September 25, 2026 | [Apply](https://www.citadel.com/careers/programs-and-events/conference-travel-grant/) |
+| Citadel Grace Hopper Travel Grant | Bachelor’s, master’s degree, or PhD students, esp in quantitative fields | September 25, 2026 | [Apply](https://www.citadel.com/careers/programs-and-events/conference-travel-grant/) |
