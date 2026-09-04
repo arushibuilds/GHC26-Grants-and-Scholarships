@@ -2,8 +2,10 @@
 
 This is an independently compiled directory of funding opportunities for participants to attend the [Grace Hopper Celebration 2026](https://ghc.anitab.org/)
 
+Check out [this article](https://roadtoghc.substack.com/p/how-to-fund-your-ghc26-attendance) for some ways that you can secure funding
+
 ## Contributing
-To contribute to this file, please put in a pull request. If you are unfamiliar, please post in [issues](https://github.com/arushibuilds/GHC26-Sponsors-Pages/issues)
+To contribute to this file, please submit a pull request. If you are unfamiliar, please post in [issues](https://github.com/arushibuilds/GHC26-Sponsors-Pages/issues)
 
 ## Disclaimer
 
@@ -14,7 +16,7 @@ or any organization listed below.
 Organization names and trademarks belong to their respective owners and are
 used solely for identification. No affiliation or endorsement is implied.
 
-This resource was created to help attendees explore publicly available funding opportunities. Links were last verified on August 31, 2026. Please open an
+This resource was created to help attendees explore publicly available funding opportunities. Links were last verified on Sept 4, 2026. Please open an
 issue to request a correction or removal.
 
 ## License
